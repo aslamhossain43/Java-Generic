@@ -1,5 +1,6 @@
 # Java-Generic
 Note: Generics does not work with primitive types (int, float, char, etc). Because every generic type parameter is bounded (extends) Object. So every parameter should be subclass of object but primitives are not class. So need Wrapper class.
+Learn: https://www.geeksforgeeks.org/generics-in-java/
 ## Advantages
 0. Code reuse
 1. Type-safety: Generic class/method takes input only single type at a time.
